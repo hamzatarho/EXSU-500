@@ -34,3 +34,11 @@ Automated anatomical segmentation has potential clinical relevance for computer-
 
 ## Task type
 Classification / segmentation / regression / etc.
+
+## Models Compared/Task Type
+We compared and implemented three different families of models for colon segmentation:
+
+1) Spatial Baseline: a simple spatial baseline, which estimates the colon's location based on pixel averages in training data
+2) Random Forest: a machine learning algorithm that, in this case, would classify pixels according to RGB and spatial position features
+3) U-Net: a symmetric convolutional neural network for semantic segregation. It would be trained on laparoscopic images and "colon" masks
+
