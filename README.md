@@ -32,8 +32,6 @@ The task is framed as binary semantic segmentation. Each input image is paired w
 
 Automated anatomical segmentation has potential clinical relevance for computer-assisted surgery. Because minimally invasive procedures depend on a camera view of the operative field, systems that can reliably identify and highlight relevant anatomy may improve intraoperative visual guidance and support surgical decision-making.
 
-## Task type
-Classification / segmentation / regression / etc.
 
 ## Models Compared/Task Type
 We compared and implemented three different families of models for colon segmentation:
