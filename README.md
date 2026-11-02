@@ -17,7 +17,7 @@ Source: Kaggle
 ## Dataset licence
 Licence: The original Dresden Surgical Anatomy Dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/) on its [Figshare release] (https://doi.org/10.6084/m9.figshare.21702600).
 
-The [Kaggle mirror used in this project](https://www.kaggle.com/datasets/anindyamajumder/the-dresden-surgical-anatomy-dataset/data) displaysApache License 2.0. This mirror label differs from the original dataset license and is recorded here for transparency.
+The [Kaggle mirror used in this project](https://www.kaggle.com/datasets/anindyamajumder/the-dresden-surgical-anatomy-dataset/data) displays Apache License 2.0. This mirror label differs from the original dataset license and is recorded here for transparency.
 
 We acknowledge the original DSAD creators. This dataset is used for a non-commercial university research project and is not included in this repository. Any shared dataset imagges or masks will include attribution and a description of modifications.
 
