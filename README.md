@@ -1,4 +1,4 @@
-# EXSU 500 Team Project
+# EXSU 500 Team Project (TEAM 21)
 
 **Course:** EXSU 500 — Fundamentals of Artificial Intelligence in Medicine  
 **Program:** Surgical and Interventional Sciences (SIS)  
