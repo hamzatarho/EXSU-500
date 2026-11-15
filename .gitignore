@@ -22,6 +22,8 @@ checkpoints/
 *.bin
 *.pt
 *.pth
+*.joblib
+*.npy
 *.gguf
 *.safetensors
 *.onnx
@@ -29,7 +31,6 @@ checkpoints/
 # Data engineering / local training data
 data/raw/
 data/processed/
-*.csv
 *.jsonl
 *.parquet
 
